@@ -1,0 +1,21 @@
+body{
+  background-color: cornsilk;
+}
+.G2{
+  text-align: center;
+  justify-content: center;
+  }
+
+.G1{
+text-align: left;
+justify-content: left;
+}
+.G3{
+  text-align: right;
+  justify-content: right;
+
+}
+.G4{
+  text-align: center;
+  justify-content:center;
+}
